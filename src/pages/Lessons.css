@@ -1,4 +1,4 @@
-.aboutContainer {
+.lessonsContainer {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -6,6 +6,8 @@
     background-color: black;
 }
 
-h1, p {
-    margin-bottom: 10px;
+p {
+    font-family: "Open Sans", serif;
+    font-size: 20px;
+    color: white;
 }
